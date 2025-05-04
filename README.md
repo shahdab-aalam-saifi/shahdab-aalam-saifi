@@ -1,6 +1,5 @@
 # Shahdab Aalam Saifi
 
-### LeetCode
 [![LeetCode Stats](https://leetcard.jacoblin.cool/shahdab-aalam-saifi?theme=dark&font=Baloo%202&ext=heatmap)](https://leetcode.com/saalamsaifi)
 
 <!--
