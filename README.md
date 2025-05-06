@@ -1,6 +1,6 @@
 # Shahdab Aalam Saifi
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/shahdab-aalam-saifi?theme=dark&font=Baloo%202&ext=heatmap)](https://leetcode.com/saalamsaifi)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/shahdab-aalam-saifi?theme=dark&font=Baloo%202&ext=heatmap)](https://leetcode.com/shahdab-aalam-saifi)
 
 <!--
 **shahdab-aalam-saifi/shahdab-aalam-saifi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
